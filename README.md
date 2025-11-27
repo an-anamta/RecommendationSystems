@@ -1,4 +1,4 @@
-###Skin Care Recommendation System
+### Skin Care Recommendation System
 
 A hybrid, NLP-powered recommendation engine designed to generate personalized skincare product suggestions by analyzing ingredients, user profiles, and product metadata. This system blends content-based filtering with collaborative insights to deliver recommendations that feel intuitive, science-driven, and user-centric.
 
