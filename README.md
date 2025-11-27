@@ -1,36 +1,36 @@
-#Skin Care Recommendation System#
+*Skin Care Recommendation System*
 
 A hybrid, NLP-powered recommendation engine designed to generate personalized skincare product suggestions by analyzing ingredients, user profiles, and product metadata. This system blends content-based filtering with collaborative insights to deliver recommendations that feel intuitive, science-driven, and user-centric.
 
 ---
 
-##1. Overview
+*1. Overview*
 
 This project streamlines the complexity of skincare selection by translating product chemistry and user needs into actionable, high-fidelity recommendations.
 Using natural language processing, feature extraction, and similarity modeling, the system creates a smart bridge between skincare science and personalized discovery.
 
 ---
 
-##2. Key Features
+*2. Key Features*
 
-* **Hybrid Recommendation Model**
+*Hybrid Recommendation Model*
   Combines content-based filtering (product ingredients + descriptions) with optional collaborative patterns.
 
-* **NLP-Based Feature Extraction**
+*NLP-Based Feature Extraction*
   Cleans, tokenizes, and vectorizes product text data for semantic comparison.
 
-* **User–Product Matching**
+*User–Product Matching*
   Leverages skincare concerns, product attributes, and ingredient profiles to compute similarity.
 
-* **Scalable Pipeline**
+*Scalable Pipeline*
   Modular workflow suitable for e-commerce, dermatology decision support, or beauty-tech personalization.
 
-* **Lightweight & Extensible**
+*Lightweight & Extensible*
   Accepts external datasets or domain-specific metadata for easy adaptation.
 
 ---
 
-##3. Project Structure
+*3. Project Structure*
 
 ```
 Skincare.ipynb           # Main notebook containing the full pipeline
@@ -42,9 +42,9 @@ README.md               # Project documentation
 
 ---
 
-##4. Workflow Architecture
+*4. Workflow Architecture*
 
-### 4.1 Data Preprocessing
+*4.1 Data Preprocessing*
 
 * Remove nulls and duplicates
 * Normalize text (lowercasing, punctuation removal, stopword filtering)
