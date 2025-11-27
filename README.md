@@ -71,7 +71,7 @@ README.md               # Project documentation
 
 ---
 
-##5. How It Works
+### 5. How It Works
 
 1. User inputs their skin type, concerns, or ingredient preferences.
 2. System processes this input into a feature vector.
@@ -81,7 +81,7 @@ README.md               # Project documentation
 
 ---
 
-##6. Use Cases
+### 6. Use Cases
 
 * **E-commerce personalization**
   Tailor product lists for each shopper.
@@ -97,7 +97,7 @@ README.md               # Project documentation
 
 ---
 
-##7. Getting Started
+### 7. Getting Started
 
 ### Requirements
 
@@ -119,7 +119,7 @@ Execute all cells to preprocess data and generate recommendations.
 
 ---
 
-##8. Future Enhancements
+### 8. Future Enhancements
 
 * Deep learning embeddings (BERT, DistilBERT) for richer ingredient semantics
 * Ingredient interaction scoring
@@ -128,7 +128,7 @@ Execute all cells to preprocess data and generate recommendations.
 
 ---
 
-##9. Author
+### 9. Author
 
 Developed as a hybrid skincare recommendation engine integrating ML, NLP, and user-centric design principles. Built for modern beauty-tech innovation and personalized wellness journeys.
 
