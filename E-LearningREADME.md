@@ -102,10 +102,15 @@ Run all cells sequentially to build the model and generate recommendations.
 
 **Core Use Cases**
 Personalized e-learning dashboards
+
 Smart course recommendations
+
 Skill-based content matchmaking
+
 Data-driven curriculum pathways
-UX personalization for EdTech platforms
+
+UX personalization for EdTech platforms.
+
 
 **Future Enhancements**
 Add transformer-based semantic embeddings (BERT, SBERT).
