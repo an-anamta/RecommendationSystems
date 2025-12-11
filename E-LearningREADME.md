@@ -81,12 +81,19 @@ online_courses.csv
     └── Top-N predictions for target users
 
 **Tech Stack**
+
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn,scikit-learn
+
 TensorFlow / Keras
+
 TF-IDF Vectorizer
+
 Colab environment
+
 
 **How to Run**
 Clone the repository:
@@ -101,6 +108,7 @@ jupyter notebook E_learning.ipynb
 Run all cells sequentially to build the model and generate recommendations.
 
 **Core Use Cases**
+
 Personalized e-learning dashboards
 
 Smart course recommendations
@@ -113,10 +121,15 @@ UX personalization for EdTech platforms.
 
 
 **Future Enhancements**
+
 Add transformer-based semantic embeddings (BERT, SBERT).
+
 Integrate real-time interaction pipelines.
+
 Deploy the model as a REST API service.
+
 Add A/B testing hooks for recommendation performance.
+
 
 **License**
 
