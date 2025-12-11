@@ -61,24 +61,33 @@ Predictive scoring on unseen user-item pairs.
 Ranking-based recommendation function.
 Model performance tracking.
 
-*Project Architecture*
+**Project Architecture**
 
 online_courses.csv
 │
 ├── Data Loading & Cleaning
 │
 ├── Feature Engineering
+
 │   ├── Interaction Features
+
 │   ├── Content Features (TF-IDF)
+
 │   └── Normalization
 │
+
 ├── Model Pipeline
+
 │   ├── Label Encoding
+
 │   ├── Hybrid Deep Learning Model
+
 │   └── Training & Validation
 │
+
 └── Recommendation Engine
-    └── Top-N predictions for target users
+
+  └── Top-N predictions for target users
 
 **Tech Stack**
 
