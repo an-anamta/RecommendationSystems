@@ -1,12 +1,13 @@
-*E-Learning Recommendation System | Hybrid ML Pipeline*
+**E-Learning Recommendation System | Hybrid ML Pipeline**
+
 In a world where learners drown in infinite content streams, this project steps in as the quiet architect — curating knowledge with precision, empathy, and a hint of Gen-Z audacity. This system leverages behavioral signals, content intelligence, and hybrid deep learning to deliver course recommendations that actually make sense.
 
-*Overview*
+**Overview**
 
 This repository contains a full-stack machine learning workflow for building an intelligent E-Learning Content Recommendation Engine.
 It blends user–course interaction analytics with content-based feature modeling to produce personalized, context-aware course suggestions.
 
-*The pipeline covers:*
+**The pipeline covers:**
 
 -Data ingestion & preprocessing
 
@@ -26,7 +27,7 @@ It blends user–course interaction analytics with content-based feature modelin
 
 This project is designed for scalable insights — a north-star asset for any data-driven learning platform.
 
-*Key Features*
+**Key Features**
 
 1. Data Preprocessing & Cleaning
 Handles missing values, duplicate entries, timestamp normalization, and feature selection.
@@ -79,7 +80,7 @@ online_courses.csv
 └── Recommendation Engine
     └── Top-N predictions for target users
 
-*Tech Stack*
+**Tech Stack**
 Python
 Pandas, NumPy
 Matplotlib, Seaborn,scikit-learn
@@ -87,7 +88,7 @@ TensorFlow / Keras
 TF-IDF Vectorizer
 Colab environment
 
-*How to Run*
+**How to Run**
 Clone the repository:
 git clone https://github.com/an-anamta/RecommendationSystems
 
@@ -99,19 +100,19 @@ jupyter notebook E_learning.ipynb
 
 Run all cells sequentially to build the model and generate recommendations.
 
-*Core Use Cases*
+**Core Use Cases**
 Personalized e-learning dashboards
 Smart course recommendations
 Skill-based content matchmaking
 Data-driven curriculum pathways
 UX personalization for EdTech platforms
 
-*Future Enhancements*
+**Future Enhancements**
 Add transformer-based semantic embeddings (BERT, SBERT).
 Integrate real-time interaction pipelines.
 Deploy the model as a REST API service.
 Add A/B testing hooks for recommendation performance.
 
-*License*
+**License**
 
 This project is released under the IUL License. Use, remix, build — just maintain credit
